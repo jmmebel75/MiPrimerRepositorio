@@ -5,4 +5,4 @@ Además, tienes un canal de YouTube, 'temporizador_atras', donde publicas conten
 
 # Sobre mí.
 
-!(/img/imagen.jpg)
+(/img/imagen.jpg)
