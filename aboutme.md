@@ -6,4 +6,3 @@ Además, tienes un canal de YouTube, 'temporizador_atras', donde publicas conten
 # Sobre mí.
 
 ![Mi mascota](/img/imagen.jpg)
-Usar chat gtp es hacer trampas, y lo sabes 🤣🤣🤣🙋‍♂️🙋‍♂️
